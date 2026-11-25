@@ -1,6 +1,6 @@
 {
   "channel": "beta",
-  "version": "0.1.1-beta.11",
-  "manifest_url": "https://github.com/NilsSteinlein/voglstalk-releases/releases/download/v0.1.1-beta.11/manifest.json",
-  "signature_url": "https://github.com/NilsSteinlein/voglstalk-releases/releases/download/v0.1.1-beta.11/manifest.json.sig"
+  "version": "0.1.1-beta.12",
+  "manifest_url": "https://github.com/NilsSteinlein/voglstalk-releases/releases/download/v0.1.1-beta.12/manifest.json",
+  "signature_url": "https://github.com/NilsSteinlein/voglstalk-releases/releases/download/v0.1.1-beta.12/manifest.json.sig"
 }
